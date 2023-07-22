@@ -12,4 +12,5 @@
 - Tableau
 ## Вывод:
 Был создан дашборд по техническому заданию.
+
 [Ссылка на дашборд](https://public.tableau.com/views/Dashbord_Dzen_16861427627560/Dashboard_Dzen?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
